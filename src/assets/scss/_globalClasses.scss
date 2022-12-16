@@ -1,0 +1,27 @@
+.title {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 36px;
+  color: #333333;
+
+  b {
+    background: linear-gradient(145.66deg, #fca305 -2.12%, #ff8130 101.98%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+}
+
+.sub-title {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  background: linear-gradient(145.27deg, #313331 -5.05%, #181716 105.01%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  margin-top: 16px;
+  margin-bottom: 40px;
+}
